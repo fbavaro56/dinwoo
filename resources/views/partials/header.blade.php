@@ -24,7 +24,7 @@
                     <div class="header-row">
                         <div class="header-logo">
                             <a href="{{url('/')}}">
-                                <img alt="Dinwoo" src="https://via.placeholder.com/150x48">
+                                <img alt="Dinwoo" src="{{asset('img/dinwoo_1.png')}}" height="48" width="150">
                             </a>
                         </div>
                     </div>
